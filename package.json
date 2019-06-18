@@ -1,0 +1,25 @@
+{
+  "name": "japanese-characters",
+  "version": "1.0.0",
+  "description": "Hiragana and Katana characters from the Japanese language",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tap test.js",
+    "lint": "standard --fix"
+  },
+  "repository": "https://github.com/words/japanese-characters",
+  "keywords": [
+    "japanese",
+    "language",
+    "characters",
+    "unicode",
+    "letters"
+  ],
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.11",
+    "standard": "^12.0.1",
+    "tap": "^14.2.3"
+  }
+}
