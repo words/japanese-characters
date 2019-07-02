@@ -1,6 +1,6 @@
 {
   "name": "japanese-characters",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Hiragana and Katana characters from the Japanese language",
   "main": "index.js",
   "scripts": {
