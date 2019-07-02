@@ -29,6 +29,12 @@ console.log(japaneseCharacters.presentIn('some English string')
 // false
 ```
 
+## Ordered by Frequency
+
+To make searching more efficient, the characters are sorted by frequency of use.
+This order was determined by counting the number of each characters in the 
+[Japanese Wikipedia Corpus](https://linguatools.org/tools/corpora/wikipedia-monolingual-corpora/).
+
 ## Tests
 
 ```sh

@@ -13,3 +13,6 @@ tap.equal(characters.presentIn('て'), true)
 tap.equal(characters.presentIn(), false)
 tap.equal(characters.presentIn(''), false)
 tap.equal(characters.presentIn('some English string'), false)
+
+tap.equal(characters.katakana.length, 96)
+tap.equal(characters.hiragana.length, 93)
